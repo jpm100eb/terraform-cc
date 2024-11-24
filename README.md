@@ -1,0 +1,2 @@
+# terraform-cc
+terraform use
